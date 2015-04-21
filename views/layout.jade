@@ -14,5 +14,6 @@ html
   body
     block content
 
+    script!= "self.staff = " + JSON.stringify(records.staff.data)
     script(src='http://fb.me/react-0.13.1.js')
     != js()
