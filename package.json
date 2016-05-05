@@ -4,7 +4,7 @@
   "dependencies": {
     "autoprefixer-stylus": "0.5.x",
     "axis": "0.3.x",
-    "coffee-react-transform": "^2.4.0",
+    "coffee-react-transform": "4.x",
     "coffee-script": "1.8.x",
     "css-pipeline": "0.2.x",
     "jade": "1.x",
